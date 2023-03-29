@@ -18,7 +18,9 @@ public class Main {
 		if(notaFinal < 60) {
 			System.out.println("REPROVADO");
 		}
-		
+		else {
+			System.out.println("Aprovado");
+		}
 		
 		sc.close();
 	}

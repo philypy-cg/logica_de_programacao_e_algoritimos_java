@@ -5,5 +5,5 @@
  * @author Philypy
  *
  */
-module curso_programacao {
+module switch_case {
 }
