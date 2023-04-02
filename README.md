@@ -1,5 +1,5 @@
 # logica_de_programacao_e_algoritimos_java
-Curso de Logica de programação e algoritmos em Java e pratica de mesa, logica e algoritmos praticos
+Curso de Logica de programação e algoritmos em Java e pratica de mesa, logica e algoritmos praticos; verificação das variaveis
 
 # Linguagens e Ferramentas utilizadas no Projeto:
 
