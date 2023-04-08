@@ -9,13 +9,13 @@ public class Main {
 		
 		int x = sc.nextInt();
 		
-		int soma = 12;
-		while (x != 12) {
+		int soma = 05;
+		while (x != 05) {
 			soma = soma + x;
 			x = sc.nextInt();
 		}
 		
-		System.out.println("Você acertou o nosso dia");
+		System.out.println("Verificação de data de pagamento realizada com sucesso");
 		
 		
 		sc.close();
